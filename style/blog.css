@@ -3,3 +3,10 @@ div{
     padding: 10px;
     margin: 10px;
 }
+img{
+background-position: center;
+border-radius: 30px;
+    margin: 30px;
+    background-color: crimson;
+    box-shadow: 30px 30px 30px;
+}
